@@ -8,5 +8,6 @@ As a part of my curriculum, I was not taught about the various PHP frameworks th
 
 For this particular assignment, I had to create an online jewellery web application WITHOUT the OOP concepts and hence, the code in itself is unstructured. However, I wanted to get this up as it has the ability to show how sessions and cookies work on a web application.
 
-Hope you guys do find it useful after all!
+Hope you guys do find it useful after all! 
+(Oh and take a look at the screenshots too.)
 
