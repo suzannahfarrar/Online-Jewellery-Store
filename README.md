@@ -1,5 +1,10 @@
 # Online-Jewellery-Store
 
+Tools: Notepad++, XAMPP
+
+
+Updated message from author:
+
 Hey, you! Welcome to my GitHub profile.
 
 This web application is built on PHP. However, it is a pretty old one and I remember creating this during my college years as a part of my curriculum. Since then, my way of coding has changed greatly. I currently make use of a lot of frameworks and do not deviate from using classes, methods and objects.
